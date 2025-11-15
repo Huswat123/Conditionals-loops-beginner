@@ -1,4 +1,4 @@
-while True:
+
     score = int(input("Enter your score (0-100): "))
     
     if 70 <= score <= 100:
